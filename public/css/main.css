@@ -1,0 +1,54 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #feffea;
+}
+.editDelete {
+  float: right;
+  margin: 3px;
+  padding: 3px 10px;
+}
+#form1 {
+  border-radius: 10px;
+  background-color: #a3a3a3;
+}
+#submitBtn {
+  background-color: #424242;
+  border-color: #424242;
+  color: white;
+}
+#navigation {
+  background-color: #424242;
+}
+#categoryBtn {
+  background-color: #424242;
+  width: auto;
+  border-radius: 7px;
+  border: none;
+  color: white;
+}
+#category {
+  width: 300px;
+}
+.input-group-text {
+  background-color: #424242;
+  color: white;
+  border: none;
+}
+#description {
+  width: 5000px;
+}
+.trStyle {
+  background-color: #fff943;
+}
+#categoryBtn:hover,
+#submitBtn:hover {
+  background-color: #fff943;
+  color: #424242;
+  border-color: #424242;
+}
+.editDelete {
+  background-color: #424242;
+  border: none;
+}
